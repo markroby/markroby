@@ -1,4 +1,5 @@
 ### Hi there 👋
+As a data scientist, I excel at leveraging machine learning to drive tangible financial gains for businesses. My deep passion for basic sciences such as mathematics and statistics is what fuels my work.
 
 <!--
 **markroby/markroby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
