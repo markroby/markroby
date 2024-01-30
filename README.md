@@ -1,6 +1,9 @@
 ### Hi there 👋
 As a data scientist, I excel at leveraging machine learning to drive tangible financial gains for businesses. My deep passion for basic sciences such as mathematics and statistics is what fuels my work.
 
+Linkedin Profile URL:https://www.linkedin.com/in/mark-roby-26616b211
+Email: markroby123@icloud.com
+Website URL:https://markroby.github.io/markroby/
 <!--
 **markroby/markroby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
